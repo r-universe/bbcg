@@ -8,3 +8,8 @@
 	url = https://github.com/bbcg/epialleler
 	shallow = true
 	registered = true
+[submodule "ramr"]
+	path = ramr
+	url = https://github.com/bbcg/ramr
+	shallow = true
+	registered = true
