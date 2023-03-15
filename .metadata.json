@@ -1,8 +1,8 @@
 [
   {
-    "package": "epialleleR"
+    "package": "ramr"
   },
   {
-    "package": "ramr"
+    "package": "epialleleR"
   }
 ]
